@@ -1,16 +1,35 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**RohanHavannavar/RohanHavannavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Rohan Havannavar**, a Data Scientist with 4 years of experience, passionate about:
 
-Here are some ideas to get you started:
+- Machine Learning 🤖
+- Deep Learning 🧠
+- Artificial Intelligence 🌟
+- Data Science 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new things and staying updated in this ever-evolving field. Let's connect and collaborate on exciting projects!
+
+---
+
+### 💼 Professional Experience
+
+- **Current Role:** Data Scientist @ **EY (Ernst & Young)**
+- **Location:** India
+
+---
+
+### 🌐 Online Presence
+
+- [📧 Email Me](mailto:rohanhavannavar@gmail.com)
+- [🔗 LinkedIn](https://www.linkedin.com/in/rohan-havannavar)
+- [✍️ Medium Blog](https://medium.com/@rohanhavannavar/2c9303024da3)
+
+---
+
+### ⚡ Tech Interests
+
+- Exploring innovative solutions in AI/ML
+- Building end-to-end data science projects
+- Sharing knowledge and learning from the community
+
+Feel free to reach out or explore my repositories for collaborative opportunities! 🚀
