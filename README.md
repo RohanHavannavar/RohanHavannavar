@@ -30,7 +30,7 @@ teams at a major FMCG client.
 yearly), eliminating 20–30 hours of manual effort monthly and enhancing information flow and system responsiveness.
 
 
-- Data Scientist @ **Tata Consultancy Services (TCS)**
+Data Scientist @ **Tata Consultancy Services (TCS)**
 - Developed a modular, Python-based library for regression, classification, and forecasting workflows, installable via
 pip with JFrog token authentication, enabling seamless integration into corporate environments.
 - Engineered flexible modules for Dataset loading, data preprocessing, EDA, feature selection, feature
