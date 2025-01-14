@@ -30,7 +30,19 @@ teams at a major FMCG client.
 yearly), eliminating 20–30 hours of manual effort monthly and enhancing information flow and system responsiveness.
 
 
-
+- Data Scientist @ **Tata Consultancy Services (TCS)**
+- Developed a modular, Python-based library for regression, classification, and forecasting workflows, installable via
+pip with JFrog token authentication, enabling seamless integration into corporate environments.
+- Engineered flexible modules for Dataset loading, data preprocessing, EDA, feature selection, feature
+transformation, modeling, and reporting, supporting multiple processors (Pandas, Spark, Polars) with easy 
+extensibility for future contributions.
+- Designed and implemented AutoML pipelines using models from scikit-learn, sktime, and statsmodels, with integrated
+MLflow and multiprocessing for efficient model tracking and performance optimization, supporting both local and Azure 
+Databricks environments.
+- Enhanced efficiency by reducing ad-hoc machine learning workflow development time by 10-20%, with built-in
+hyperparameter tuning options for improved model performance.
+- Created comprehensive unit tests with pytest, maintained version control via Git, and managed package dependencies
+using Poetry, following OOP principles with decorators and Python protocols for robust, scalable code.
 
 ---
 
